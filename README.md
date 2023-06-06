@@ -12,7 +12,7 @@
 
 ---
 
-🐹 近两年业务时间进行开源文档翻译，👉 [翻译文档项目列表](https://github.com/dev2007/bookhub-docs)
+🐹 近两年业余时间进行开源文档翻译，👉 [翻译文档项目列表](https://github.com/dev2007/bookhub-docs)
 
 到处开坑，每个都收不住，预计再花五年可行😏
 
