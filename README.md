@@ -7,12 +7,13 @@
 ![](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=jameson&logoColor=white) ![](https://img.shields.io/badge/-Docs_Translator-F05032?style=flat-square&logo=gitbook&logoColor=white) ![](https://img.shields.io/badge/-Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
 - 💗 C# 编码约 6 年
-- 💗 Java 编码约 6年
+- 💗 Java 编码约 8年
 - 🔥 从业于云计算
+- 👨‍💻 系统架构设计师（高级）
 
 ---
 
-🐹 近两年业余时间进行开源文档翻译，👉 [翻译文档项目列表](https://github.com/dev2007/bookhub-docs)
+🐹 近三年业余时间进行开源文档翻译，👉 [翻译文档项目列表](https://github.com/dev2007/bookhub-docs)
 
 到处开坑，每个都收不住，预计再花五年可行😏
 
